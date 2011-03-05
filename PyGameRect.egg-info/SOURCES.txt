@@ -1,0 +1,6 @@
+base.c
+rect.c
+PyGameRect.egg-info/PKG-INFO
+PyGameRect.egg-info/SOURCES.txt
+PyGameRect.egg-info/dependency_links.txt
+PyGameRect.egg-info/top_level.txt
